@@ -1,0 +1,9 @@
+INDEX VERSION 1.131+E:\MuhammetYasirDurakJavaKurs\JavaPsqlReactCampMay\.metadata\.plugins\org.eclipse.jdt.core
+314781149.index
+3400950599.index
+2948859576.index
+2172963681.index
+2375147878.index
+72210685.index
+660603519.index
+3964790386.index
