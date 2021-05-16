@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<classpath>
+	<classpathentry kind="con" path="org.eclipse.jdt.launching.JRE_CONTAINER"/>
+	<classpathentry kind="src" path="Day1CampOopIntro/src"/>
+	<classpathentry kind="src" path="Day2HW1PropertiesKodlamaIO/src"/>
+	<classpathentry kind="src" path="Day3CampInheritance2/src"/>
+	<classpathentry kind="src" path="Day3HW2ClassesKodlamaIO/src"/>
+	<classpathentry kind="src" path="Day4HW2CoffeeShopMernis/src"/>
+	<classpathentry kind="src" path="Day4HW3GamerBackEnd/src"/>
+	<classpathentry kind="src" path="Day5HW1ECommerceBackEnd/src"/>
+	<classpathentry kind="src" path="Day6CampNorthwind/.mvn/wrapper"/>
+	<classpathentry kind="src" path="Day6CampNorthwind/src/main/java"/>
+	<classpathentry kind="src" path="Day6CampNorthwind/src/test/java"/>
+	<classpathentry kind="src" path="Day6HW3HrmsJobPositions/.mvn/wrapper"/>
+	<classpathentry kind="src" path="Day6HW3HrmsJobPositions/src/main/java"/>
+	<classpathentry kind="src" path="Day6HW3HrmsJobPositions/src/test/java"/>
+	<classpathentry kind="output" path="Day1CampOopIntro/bin"/>
+</classpath>
